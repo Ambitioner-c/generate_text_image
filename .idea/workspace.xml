@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="203bbbf7-87d6-4f97-aedd-5ee6340f9442" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/generate_text_image.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Font/wqy-microhei.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/msc.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/msc_new.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/generator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ambitioner-c" />
+        <option value="ambitioner-c" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="ProjectId" id="1XtBGTS2twaTmSBE4PTVznO4kHh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="203bbbf7-87d6-4f97-aedd-5ee6340f9442" name="Default Changelist" comment="" />
+      <created>1581855415061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581855415061</updated>
+      <workItem from="1581855417614" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="填充图片为指定文字" />
+    <option name="LAST_COMMIT_MESSAGE" value="填充图片为指定文字" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="26" width="870" height="712" key="CommitChangelistDialog2" timestamp="1581855824098">
+      <screen x="0" y="26" width="1366" height="712" />
+    </state>
+    <state x="243" y="26" width="870" height="712" key="CommitChangelistDialog2/0.26.1366.712@0.26.1366.712" timestamp="1581855824098" />
+    <state x="164" y="26" width="1023" height="712" key="SettingsEditor" timestamp="1581855566649">
+      <screen x="0" y="26" width="1366" height="712" />
+    </state>
+    <state x="164" y="26" width="1023" height="712" key="SettingsEditor/0.26.1366.712@0.26.1366.712" timestamp="1581855566649" />
+  </component>
+</project>
