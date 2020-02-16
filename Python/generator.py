@@ -27,7 +27,7 @@ def generate_new_image(origin_path, new_path, font_path, text, font_size):
             draw.text((x, y), text[index], font=font, fill=img_array[x, y], direction=None)
             index = index + 1
 
-    img_new.convert("RGB").save("../Image/msc_new.jpeg")
+    img_new.convert("RGB").save(new_path)
 
 
 if __name__ == '__main__':

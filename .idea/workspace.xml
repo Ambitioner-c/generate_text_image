@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="203bbbf7-87d6-4f97-aedd-5ee6340f9442" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/generate_text_image.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Font/wqy-microhei.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image/msc.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image/msc_new.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/generator.py" afterDir="false" />
+    <list default="true" id="203bbbf7-87d6-4f97-aedd-5ee6340f9442" name="Default Changelist" comment="填充图片为指定文字">
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/generate_text_image.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/generate_text_image.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1XtBGTS2twaTmSBE4PTVznO4kHh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +48,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="generate_text_image" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="generate_text_image" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -69,8 +85,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581855415061</updated>
-      <workItem from="1581855417614" duration="407000" />
+      <workItem from="1581855417614" duration="763000" />
+      <workItem from="1581856363021" duration="24000" />
+      <workItem from="1581856388192" duration="748000" />
     </task>
+    <task id="LOCAL-00001" summary="填充图片为指定文字">
+      <created>1581855836113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581855836113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,13 +107,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="填充图片为指定文字" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="243" y="26" width="870" height="712" key="CommitChangelistDialog2" timestamp="1581855824098">
+    <state x="243" y="26" width="870" height="712" key="CommitChangelistDialog2" timestamp="1581855886203">
       <screen x="0" y="26" width="1366" height="712" />
     </state>
-    <state x="243" y="26" width="870" height="712" key="CommitChangelistDialog2/0.26.1366.712@0.26.1366.712" timestamp="1581855824098" />
-    <state x="164" y="26" width="1023" height="712" key="SettingsEditor" timestamp="1581855566649">
+    <state x="243" y="26" width="870" height="712" key="CommitChangelistDialog2/0.26.1366.712@0.26.1366.712" timestamp="1581855886203" />
+    <state x="466" y="140" width="424" height="485" key="FileChooserDialogImpl" timestamp="1581856820882">
       <screen x="0" y="26" width="1366" height="712" />
     </state>
-    <state x="164" y="26" width="1023" height="712" key="SettingsEditor/0.26.1366.712@0.26.1366.712" timestamp="1581855566649" />
+    <state x="466" y="140" width="424" height="485" key="FileChooserDialogImpl/0.26.1366.712@0.26.1366.712" timestamp="1581856820882" />
+    <state x="165" y="26" width="1023" height="712" key="SettingsEditor" timestamp="1581856857550">
+      <screen x="0" y="26" width="1366" height="712" />
+    </state>
+    <state x="165" y="26" width="1023" height="712" key="SettingsEditor/0.26.1366.712@0.26.1366.712" timestamp="1581856857550" />
+    <state x="337" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1581856372339">
+      <screen x="0" y="26" width="1366" height="712" />
+    </state>
+    <state x="337" y="209" key="com.intellij.ide.util.TipDialog/0.26.1366.712@0.26.1366.712" timestamp="1581856372339" />
+    <state x="346" y="59" key="search.everywhere.popup" timestamp="1581855875317">
+      <screen x="0" y="26" width="1366" height="712" />
+    </state>
+    <state x="346" y="59" key="search.everywhere.popup/0.26.1366.712@0.26.1366.712" timestamp="1581855875317" />
   </component>
 </project>
